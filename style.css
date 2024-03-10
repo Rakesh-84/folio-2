@@ -1,0 +1,27 @@
+*{margin-left: auto;
+margin-right: auto;
+padding: 0;
+box-sizing: border-box;
+color: #ffff;
+font-size: 25px;
+font-family: sans-serif;
+font-weight: 800;
+}
+
+.parent{display: flex;
+    background-color:#02918B ;
+    line-height: 60px;
+justify-content:space-between;
+align-items: first baseline;
+
+}
+.flexbox{background-color:#02918B  ;
+display:flex 
+}
+.flexbox{justify-content: space-between;
+}
+.menu{display: flex;
+list-style-type: none;
+
+li{padding: 25px;}
+.logo{;}
